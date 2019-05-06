@@ -9,6 +9,7 @@ For MLC class 2019
 ### Gaussian Stats Test
 ### Normalize / Whitening
 ### PCA
+### Train & Test split
 <br> 
 
 ## Modeling
