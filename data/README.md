@@ -86,6 +86,10 @@
 
 
 # Dataset Source
+
+## Rolling Sale Data(Apr 2018 - Mar 2019)
+https://data.cityofnewyork.us/Housing-Development/Annualized-Rolling-Sales-Update/uzf5-f8n2
+
 ## BBL: Building Footprints
 https://data.cityofnewyork.us/Housing-Development/Building-Footprints/nqwf-w8eh
 
