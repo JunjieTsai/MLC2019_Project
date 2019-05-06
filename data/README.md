@@ -62,7 +62,7 @@ https://developers.google.com/places/web-service/supported_types
 https://data.cityofnewyork.us/City-Government/Points-Of-Interest/rxuy-2muj
 
 ## Subway & bus station
-https://data.cityofnewyork.us/Transportation/Subway-Entrances/drex-xx56
+https://data.cityofnewyork.us/Transportation/Subway-Entrances/drex-xx56  
 https://transitfeeds.com/p/mta
 https://data.cityofnewyork.us/Transportation/Subway-Stations/arq3-7z49  
 https://data.cityofnewyork.us/Transportation/Subway-Lines/3qz8-muuu
