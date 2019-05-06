@@ -1,6 +1,6 @@
 # Features
 ## Numerical
-- Housing  
+- 'Housing'  
 - 'YEAR BUILT'  
 - 'RESIDENTIAL UNITS'  
 - 'COMMERCIAL UNITS'
@@ -33,7 +33,7 @@
 - 'builtfar'  
 - 'residfar'  
 - 'commfar'  
-- 'facilfar',
+- 'facilfar'
 - 'DensityPop': Population Density
 - 'IncomePerCap': Income per capita ($)
 - 'Poverty': under poverty level rate (%)
