@@ -6,7 +6,7 @@ For MLC class 2019
 
 ## Preprocessing
 ### Extremum filter
-### Gaussian Stats Test
+### Gaussian distribution Test
 ### Anomaly Detection
 ### Normalize / Whitening
 ### PCA
