@@ -1,5 +1,39 @@
 # Features
 ## Numerical
+- Housing  
+- 'YEAR BUILT'  
+- 'RESIDENTIAL UNITS'  
+- 'COMMERCIAL UNITS'
+- 'TOTAL UNITS'  
+- 'LAND SQUARE FEET'  
+- 'GROSS SQUARE FEET'  
+- 'easements'  
+- 'lotarea'  
+- 'bldgarea'  
+- 'comarea'  
+- 'resarea'  
+- 'officearea'  
+- 'retailarea'  
+- 'garagearea'  
+- 'strgearea'  
+- 'factryarea'  
+- 'otherarea'  
+- 'numbldgs'  
+- 'numfloors'  
+- 'unitsres'  
+- 'unitstotal'  
+- 'lotfront'  
+- 'lotdepth'  
+- 'bldgfront'  
+- 'bldgdepth'  
+- 'assessland'  
+- 'assesstot'  
+- 'exemptland'  
+- 'exempttot'  
+- 'builtfar'  
+- 'residfar'  
+- 'commfar'  
+- 'facilfar',
 - 'DensityPop': Population Density
 - 'IncomePerCap': Income per capita ($)
 - 'Poverty': under poverty level rate (%)
@@ -16,12 +50,18 @@
 - 'park_area': Total area of parks in the a quarter mile buffer (acre)
 - 'park_top_level': Top level of parks in the a quarter mile buffer
 - 'park_distance': Distance to the nearest park
-- 'FELONY': Number of felony crimes in the a quarter mile buffer
-- 'VIOLATION': Number of violation crimes in the a quarter mile buffer
-- 'MISDEMEANOR': Number of misdemeanor crimes in the a quarter mile buffer
+- 'FELONY': Number of felony crimes in the a quarter mile buffer  
+- 'VIOLATION': Number of violation crimes in the a quarter mile buffer  
+- 'MISDEMEANOR': Number of misdemeanor crimes in the a quarter mile buffer  
+- 'Num of SAT Test Takers'  
+- 'satReadingSum'  
+- 'satMathSum'  
+- 'satWritingSum'  
 
 ## Categorical
-
+- 'histdist'  
+- 'landmark'  
+- 'landuse'  
 
 
 # Dataset Catalogue
