@@ -19,7 +19,7 @@ For MLC class 2019
 ### Ridge
 ### Decision Tree
 ### Random forest
-### SVM
+### SVM (missed)
 ### Bayesian Methods
 ### Bayesian Networks
 ### Gaussian Processes
