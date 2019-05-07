@@ -10,7 +10,7 @@ For MLC class 2019
 ### Anomaly Detection
 ### Standardize / Whitening
 ### PCA
-### Train & Test split
+### Train & Test random split
 <br> 
 
 ## Modeling
