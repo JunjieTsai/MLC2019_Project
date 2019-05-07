@@ -8,7 +8,7 @@ For MLC class 2019
 ### Extremum filter
 ### Gaussian distribution Test
 ### Anomaly Detection
-### Normalize / Whitening
+### Standardize / Whitening
 ### PCA
 ### Train & Test split
 <br> 
