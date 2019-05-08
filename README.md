@@ -33,4 +33,4 @@ Reference: https://towardsdatascience.com/feature-selection-correlation-and-p-va
 ## Modeling
 Develop models for different landuses.
 - tuning
-- cross validation
+- K-Fold cross validation
