@@ -24,7 +24,7 @@ For MLC class 2019
 ### Bayesian Methods
 ### Bayesian Networks
 ### Gaussian Processes
-### Clustering
+### Clustering (optional)
 <br> 
 
 ## Modeling
