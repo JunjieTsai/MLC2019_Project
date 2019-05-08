@@ -13,7 +13,7 @@ For MLC class 2019
 ### Train & Test random split
 ### Feature Selection
 - Correlation: when two features have high correlation (>0.9), we drop one of the two features.
-- P-value
+- P-value: remove irrelevant features  
 Reference: https://towardsdatascience.com/feature-selection-correlation-and-p-value-da8921bfb3cf
 <br> 
 
@@ -32,3 +32,5 @@ Reference: https://towardsdatascience.com/feature-selection-correlation-and-p-va
 
 ## Modeling
 Develop models for different landuses.
+- tuning
+- cross validation
