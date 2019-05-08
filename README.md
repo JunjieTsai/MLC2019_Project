@@ -12,6 +12,9 @@ For MLC class 2019
 ### PCA
 ### Train & Test random split
 ### Feature Selection
+- Correlation: when two features have high correlation (>0.9), we drop one of the two features.
+- P-value
+Reference: https://towardsdatascience.com/feature-selection-correlation-and-p-value-da8921bfb3cf
 <br> 
 
 ## Model Selection
