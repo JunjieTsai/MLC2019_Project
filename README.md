@@ -11,9 +11,10 @@ For MLC class 2019
 ### Standardize / Whitening
 ### PCA
 ### Train & Test random split
+### Feature Selection
 <br> 
 
-## Modeling
+## Model Selection
 ### Multivariate linear regression model
 ### Lasso
 ### Ridge
@@ -24,3 +25,6 @@ For MLC class 2019
 ### Bayesian Networks
 ### Gaussian Processes
 ### Clustering
+<br> 
+
+## Modeling
