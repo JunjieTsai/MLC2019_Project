@@ -56,7 +56,7 @@ Out of sample r-squared 0.02
 Tune hyperparameters with GirdsearchCV  
 Out of sample r-squared 0.88, with Cross-validation r-squared 0.55.
 
-### KNN
+### KNN (K Nearest Neighbors Regression)
 Out of sample r-squared 0.15
 
 <br> 
