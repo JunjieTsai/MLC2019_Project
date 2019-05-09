@@ -87,4 +87,4 @@ Develop models for different landuses.
 - Add more potential property transaction data
 - Try more models
 - Website Application
-- Temporal prediction
+- Temporal prediction (use property transaction data from 2003 to 2019)
