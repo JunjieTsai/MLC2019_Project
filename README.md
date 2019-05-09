@@ -84,7 +84,7 @@ Develop models for different landuses.
 
 ## Future work
 - Optimize the hyperparameters and refine the anomaly detections to improve the accuracy and robustness of the model.
-- Add more potential property transation data
+- Add more potential property transaction data
 - Try more models
 - Website Application
 - Temporal prediction
