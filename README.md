@@ -13,7 +13,7 @@ Chi-Square distribution
 - P-value: remove irrelevant features  
 Reference: https://towardsdatascience.com/feature-selection-correlation-and-p-value-da8921bfb3cf  
 ### Anomaly Detection
-Isolate forest sacrifices 6% accuracy of the out of sample, but improve the robustness of the model by 11%.
+Isolate forest sacrifices 5.6% accuracy of the out of sample, but improve the robustness of the model by 11.0%.
 ### Standardize
 ### PCA / Whitening (optional)
 ### Train & Test random split
@@ -21,16 +21,27 @@ Isolate forest sacrifices 6% accuracy of the out of sample, but improve the robu
 <br> 
 
 ## Model Selection
+
 ### Multivariate linear regression model
+achieve out of sample r-squared 0.73, with Cross-validation r-squared 0.32
+
+After PCA, out of sample r-squared 0.49, with Cross-validation r-squared 0.42
+PCA makes the model more robust.
+
 ### Lasso
+
 ### Ridge
+
 ### Decision Tree
+
 ### Random forest
+
 ### Adaboost
+
 ### GradientBoosting
 
 <br> 
-**Missed**
+## Missed Models
 ### XGBoost
 ### LightGBM
 ### SVM (missed)
