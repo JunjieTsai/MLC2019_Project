@@ -7,13 +7,15 @@ For MLC class 2019
 ## Preprocessing
 ### Extremum filter
 ### Gaussian distribution Test
+Chi-Square distribution
 ### Feature Selection
 - Correlation: when two features have high correlation (>0.9), we drop one of the two features.
 - P-value: remove irrelevant features  
 Reference: https://towardsdatascience.com/feature-selection-correlation-and-p-value-da8921bfb3cf  
 ### Anomaly Detection
-### Standardize / Whitening
-### PCA
+Isolate forest sacrifice 6% accuracy of the out of sample, but improve the robustness of the model by 11%.
+### Standardize
+### PCA / Whitening
 ### Train & Test random split
 <br> 
 
