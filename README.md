@@ -28,17 +28,28 @@ achieve out of sample r-squared 0.73, with Cross-validation r-squared 0.32
 After PCA, out of sample r-squared 0.49, with Cross-validation r-squared 0.42
 PCA makes the model more robust.
 
-### Lasso
+After feature selection, out of sample r-squared 0.73, with Cross-validation r-squared 0.38.
 
-### Ridge
+### Lasso (LassoCV)
+achieve out of sample r-squared 0.67  
+After PCA, out of sample r-squared 0.47  
+After feature selection, out of sample r-squared 0.67
 
-### Decision Tree
+### Ridge (Girdsearch)
+achieve out of sample r-squared 0.73  
+After feature selection, out of sample r-squared 0.73
 
-### Random forest
+### Decision Tree (Girdsearch)
+achieve out of sample r-squared 0.02
+
+### Random forest (Girdsearch)
+achieve out of sample r-squared 0.06
 
 ### Adaboost
+achieve out of sample r-squared 0.02
 
 ### GradientBoosting
+achieve out of sample r-squared 0.88, with Cross-validation r-squared 0.55.
 
 <br> 
 ## Missed Models
