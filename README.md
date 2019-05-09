@@ -43,21 +43,24 @@ After feature selection, out of sample r-squared 0.73
 
 ### Decision Tree
 Tune hyperparameters with GirdsearchCV  
-achieve out of sample r-squared 0.02
+Out of sample r-squared 0.02
 
 ### Random forest
 Tune hyperparameters with GirdsearchCV  
-achieve out of sample r-squared 0.06
+Out of sample r-squared 0.06
 
 ### Adaboost
-achieve out of sample r-squared 0.02
+Out of sample r-squared 0.02
 
 ### GradientBoosting
 Tune hyperparameters with GirdsearchCV  
-achieve out of sample r-squared 0.88, with Cross-validation r-squared 0.55.
+Out of sample r-squared 0.88, with Cross-validation r-squared 0.55.
 
+### KNN
+Out of sample r-squared 0.15
 
 <br> 
+
 ## Missed Models
 ### XGBoost
 ### LightGBM
