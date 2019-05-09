@@ -48,8 +48,9 @@ achieve out of sample r-squared 0.06
 ### Adaboost
 achieve out of sample r-squared 0.02
 
-### GradientBoosting
+### GradientBoosting (Girdsearch)
 achieve out of sample r-squared 0.88, with Cross-validation r-squared 0.55.
+
 
 <br> 
 ## Missed Models
@@ -74,4 +75,4 @@ Develop models for different landuses.
 ## Future work
 - Optimize the hyperparameters and refine the anomaly detections to improve the accuracy and robustness of the model.
 - Try more models
-- Website Application 
+- Website Application
