@@ -30,25 +30,30 @@ PCA makes the model more robust.
 
 After feature selection, out of sample r-squared 0.73, with Cross-validation r-squared 0.38.
 
-### Lasso (LassoCV)
+### Lasso
+Tune hyperparameters with LassoCV  
 achieve out of sample r-squared 0.67  
 After PCA, out of sample r-squared 0.47  
 After feature selection, out of sample r-squared 0.67
 
-### Ridge (Girdsearch)
+### Ridge
+Tune hyperparameters with GirdsearchCV  
 achieve out of sample r-squared 0.73  
 After feature selection, out of sample r-squared 0.73
 
-### Decision Tree (Girdsearch)
+### Decision Tree
+Tune hyperparameters with GirdsearchCV  
 achieve out of sample r-squared 0.02
 
-### Random forest (Girdsearch)
+### Random forest
+Tune hyperparameters with GirdsearchCV  
 achieve out of sample r-squared 0.06
 
 ### Adaboost
 achieve out of sample r-squared 0.02
 
-### GradientBoosting (Girdsearch)
+### GradientBoosting
+Tune hyperparameters with GirdsearchCV  
 achieve out of sample r-squared 0.88, with Cross-validation r-squared 0.55.
 
 
@@ -70,7 +75,7 @@ Develop models for different landuses.
 
 ## Bias & Limitation
 - Overfitting
-- robustness
+- Robustness
 
 ## Future work
 - Optimize the hyperparameters and refine the anomaly detections to improve the accuracy and robustness of the model.
