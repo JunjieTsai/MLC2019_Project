@@ -77,10 +77,14 @@ Develop models for different landuses.
 - K-Fold cross validation
 
 ## Bias & Limitation
+- Data size limited: 8885
+- Error not reported
 - Overfitting
 - Robustness
 
 ## Future work
 - Optimize the hyperparameters and refine the anomaly detections to improve the accuracy and robustness of the model.
+- Add more potential property transation data
 - Try more models
 - Website Application
+- Temporal prediction
