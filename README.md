@@ -29,7 +29,8 @@ Isolate forest sacrifices 6% accuracy of the out of sample, but improve the robu
 ### Adaboost
 ### GradientBoosting
 
-Missed
+<br> 
+**Missed**
 ### XGBoost
 ### LightGBM
 ### SVM (missed)
